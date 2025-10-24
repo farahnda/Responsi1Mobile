@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">
+        Responsi 1 Mobile H1D023095
+    </string>
+
+    <string name="judul">
+        Paris Saint-Germain-FC\'s History
+    </string>
+
+    <string name="deskripsi">
+        Paris Saint-Germain were founded in 1970 following the merger of Paris FC and Stade Saint-Germain. PSG made an immediate impact, winning Ligue 2 and thus achieving promotion to Ligue 1 in their first season. Their momentum was soon halted, and the club split in 1972. Paris FC remained in the top flight, while PSG were relegated to Division 3. After two consecutive promotions, PSG quickly returned to the top flight in 1974 and moved to the Parc des Princes.
+        \n\n
+        The club\'s first trophies arrived in the 1980s. Led by players such as Safet Sušić, Luis Fernandez and Dominique Rocheteau, the Parisians claimed back-to-back Coupe de France in 1982 and 1983, and their first Ligue 1 title in 1986. A steep decline followed, but the takeover by Canal+ in 1991 revitalized PSG. Led by David Ginola, George Weah and Raí, the club won nine trophies and reached five consecutive European semi-finals during the 1990s. Notably, Paris captured their second league title in 1994 and the UEFA Cup Winners\' Cup in 1996, with the legendary Luis Fernandez now as manager.
+        \n\n
+        At the beginning of the 21st century, the Parisians were struggling to get back to the top despite the magic of Ronaldinho and the goals of Pauleta. Five more trophies followed: three Coupe de France, a Coupe de la Ligue and a UEFA Intertoto Cup, but PSG became better known for struggling through one crisis after another. Inevitably, Canal+ sold the club to Colony Capital in 2006. However, the situation only worsened, and PSG spent the next two seasons avoiding relegation.
+        \n\n
+        The club\'s fortunes changed dramatically with the arrival of Qatar Sports Investments as owners in 2011. Since then, PSG have invested heavily in signings of world-class players such as Zlatan Ibrahimović, Lionel Messi, Neymar and Kylian Mbappé, the latter two being the most expensive transfers in football history. As a result, PSG have dominated French football, winning 37 trophies: eleven league titles, eight Coupe de France, six Coupe de la Ligue and eleven Trophée des Champions. They have also become a regular in the knockout stages of the UEFA Champions League, reaching the final for the first time in their history in 2020 and winning their first title in 2025.
+    </string>
+
+    <string name="clubhistory">
+        Club History
+    </string>
+
+    <string name="headcoach">
+        Head Coach
+    </string>
+
+    <string name="teamsquad">
+        Team Squad
+    </string>
+</resources>
